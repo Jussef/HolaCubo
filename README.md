@@ -1,2 +1,2 @@
 # HolaCubo
-Un curso de tree.js  https://youtu.be/pJaP0GZyUbA
+Un curso de three.js  https://youtu.be/pJaP0GZyUbA
